@@ -1,7 +1,7 @@
 {
     "name": "jowy/veloce",
-    "description": "slim framework with rocket booster",
-    "type": "Microframework",
+    "description": "slim framework backed by rocket booster",
+    "type": "microframework",
     "require": {
         "slim/slim": "^3.0@RC",
         "ext-swoole": "^1.7.18"
