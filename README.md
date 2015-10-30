@@ -1,6 +1,8 @@
 Veloce
 ===
 
+[![Build Status](https://travis-ci.org/Atriedes/veloce.svg?branch=master)](https://travis-ci.org/Atriedes/veloce)
+
 Veloce is combination between [slim microframework](https://github.com/slimphp/Slim/) and [swoole http server](https://github.com/swoole/swoole-src). Inspired by [espresso](https://github.com/reactphp/espresso)
 
 Install
